@@ -1,0 +1,221 @@
+train_id,station,time,color
+ICE146,Bad Bentheim,13:51,Red
+ICE146,Hengelo,14:07,Red
+ICE146,Hengelo,14:09,Red
+ICE146,Deventer,14:41,Red
+ICE146,Deventer,14:47,Red
+ICE146,Apeldoorn,14:57,Red
+ICE146,Apeldoorn,14:59,Red
+ICE146,Amersfoort Centraal,15:24,Red
+STOP31252,Oldenzaal,14:03,Blue
+STOP31252,Hengelo Oost,14:09,Blue
+STOP31252,Hengelo,14:13,Blue
+STOP31252,Hengelo,14:16,Blue
+STOP31254,Oldenzaal,14:33,Blue
+STOP31254,Hengelo Oost,14:39,Blue
+STOP31254,Hengelo,14:43,Blue
+STOP31254,Hengelo,14:46,Blue
+STOP31256,Oldenzaal,15:03,Blue
+STOP31256,Hengelo Oost,15:09,Blue
+STOP31256,Hengelo,15:13,Blue
+STOP31256,Hengelo,15:16,Blue
+STOP31258,Oldenzaal,15:33,Blue
+STOP31258,Hengelo Oost,15:39,Blue
+STOP31258,Hengelo,15:43,Blue
+STOP31258,Hengelo,15:46,Blue
+SPR7052,Almelo,14:23,Blue
+SPR7052,Wierden,14:28,Blue
+SPR7052,Rijssen,14:34,Blue
+SPR7052,Holten,14:39,Blue
+SPR7052,Deventer Colmschate,14:49,Blue
+SPR7052,Deventer,14:54,Blue
+SPR7052,Deventer,14:55,Blue
+SPR7052,Twello,15:00,Blue
+SPR7052,Apeldoorn Osseveld,15:05,Blue
+SPR7052,Apeldoorn,15:10,Blue
+SPR7054,Almelo,14:53,Blue
+SPR7054,Wierden,14:58,Blue
+SPR7054,Rijssen,15:04,Blue
+SPR7054,Holten,15:09,Blue
+SPR7054,Deventer Colmschate,15:19,Blue
+SPR7054,Deventer,15:24,Blue
+SPR7054,Deventer,15:25,Blue
+SPR7054,Twello,15:30,Blue
+SPR7054,Apeldoorn Osseveld,15:35,Blue
+SPR7054,Apeldoorn,15:40,Blue
+SPR7056,Almelo,15:23,Blue
+SPR7056,Wierden,15:28,Blue
+SPR7056,Rijssen,15:34,Blue
+SPR7056,Holten,15:39,Blue
+SPR7056,Deventer Colmschate,15:49,Blue
+SPR7056,Deventer,15:54,Blue
+SPR7056,Deventer,15:55,Blue
+SPR7056,Twello,16:00,Blue
+SPR7056,Apeldoorn Osseveld,16:05,Blue
+SPR7056,Apeldoorn,16:10,Blue
+SPR7058,Almelo,15:53,Blue
+SPR7058,Wierden,15:58,Blue
+SPR7058,Rijssen,16:04,Blue
+SPR7058,Holten,16:09,Blue
+SPR7058,Deventer Colmschate,16:19,Blue
+SPR7058,Deventer,16:24,Blue
+SPR7058,Deventer,16:25,Blue
+SPR7058,Twello,16:30,Blue
+SPR7058,Apeldoorn Osseveld,16:35,Blue
+SPR7058,Apeldoorn,16:40,Blue
+IC 1752,Hengelo,14:23,Green
+IC 1752,Hengelo,14:24,Green
+IC 1752,Almelo,14:35,Green
+IC 1752,Almelo,14:36,Green
+IC 1752,Deventer,15:00,Green
+IC 1752,Deventer,15:03,Green
+IC 1752,Apeldoorn,15:13,Green
+IC 1752,Apeldoorn,15:14,Green
+IC 1752,Amersfoort Centraal,15:38,Green
+IC1754,Hengelo,14:52,Green
+IC1754,Hengelo,14:54,Green
+IC1754,Almelo,15:05,Green
+IC1754,Almelo,15:06,Green
+IC1754,Deventer,15:30,Green
+IC1754,Deventer,15:33,Green
+IC1754,Apeldoorn,15:43,Green
+IC1754,Apeldoorn,15:44,Green
+IC1754,Amersfoort Centraal,16:08,Green
+IC1756,Hengelo,15:23,Green
+IC1756,Hengelo,15:24,Green
+IC1756,Almelo,15:35,Green
+IC1756,Almelo,15:36,Green
+IC1756,Deventer,16:00,Green
+IC1756,Deventer,16:03,Green
+IC1756,Apeldoorn,16:13,Green
+IC1756,Apeldoorn,16:14,Green
+IC1756,Amersfoort Centraal,16:38,Green
+IC1758,Hengelo,15:52,Green
+IC1758,Hengelo,15:54,Green
+IC1758,Almelo,16:05,Green
+IC1758,Almelo,16:06,Green
+IC1758,Deventer,16:30,Green
+IC1758,Deventer,16:33,Green
+IC1758,Apeldoorn,16:43,Green
+IC1758,Apeldoorn,16:44,Green
+IC1758,Amersfoort Centraal,17:08,Green
+STOP20368,Bad Bentheim,14:08,Blue
+STOP20368,Oldenzaal,14:18,Blue
+STOP20368,Hengelo,14:26,Blue
+STOP20370,Bad Bentheim,15:08,Blue
+STOP20370,Oldenzaal,15:18,Blue
+STOP20370,Hengelo,15:26,Blue
+SPR31338,Barneveld Noord,15:17,Blue
+SPR31338,Hoevelaken,15:24,Blue
+SPR31338,Amersfoort Centraal,15:30,Blue
+SPR31442,Barneveld Noord,15:32,Blue
+SPR31442,Hoevelaken,15:39,Blue
+SPR31442,Amersfoort Centraal,15:45,Blue
+SPR31340,Barneveld Noord,15:47,Blue
+SPR31340,Hoevelaken,15:54,Blue
+SPR31340,Amersfoort Centraal,16:00,Blue
+SPR31444,Barneveld Noord,16:02,Blue
+SPR31444,Hoevelaken,16:09,Blue
+SPR31444,Amersfoort Centraal,16:15,Blue
+SPR31342,Barneveld Noord,16:17,Blue
+SPR31342,Hoevelaken,16:24,Blue
+SPR31342,Amersfoort Centraal,16:30,Blue
+SPR31446,Barneveld Noord,16:32,Blue
+SPR31446,Hoevelaken,16:39,Blue
+SPR31446,Amersfoort Centraal,16:45,Blue
+SPR31344,Barneveld Noord,16:47,Blue
+SPR31344,Hoevelaken,16:54,Blue
+SPR31344,Amersfoort Centraal,17:00,Blue
+SPR31448,Barneveld Noord,17:02,Blue
+SPR31448,Hoevelaken,17:09,Blue
+SPR31448,Amersfoort Centraal,17:15,Blue
+IC3644,Snippeling Aansluiting,14:43,Green
+IC3644,Deventer,14:45,Green
+IC3644,Deventer,14:46,Green
+IC3644,Deventer aansluiting Noord,14:47,Green
+IC3646,Snippeling Aansluiting,15:13,Green
+IC3646,Deventer,15:15,Green
+IC3646,Deventer,15:16,Green
+IC3646,Deventer aansluiting Noord,15:17,Green
+IC3648,Snippeling Aansluiting,15:43,Green
+IC3648,Deventer,15:45,Green
+IC3648,Deventer,15:46,Green
+IC3648,Deventer aansluiting Noord,15:47,Green
+IC3650,Snippeling Aansluiting,16:13,Green
+IC3650,Deventer,16:15,Green
+IC3650,Deventer,16:16,Green
+IC3650,Deventer aansluiting Noord,16:17,Green
+IC1554,Deventer,15:19,Green
+IC1554,Apeldoorn,15:29,Green
+IC1554,Apeldoorn,15:30,Green
+IC1554,Amersfoort Centraal,15:54,Green
+IC1556,Deventer,15:49,Green
+IC1556,Apeldoorn,15:59,Green
+IC1556,Apeldoorn,16:00,Green
+IC1556,Amersfoort Centraal,16:24,Green
+IC1558,Deventer,16:18,Green
+IC1558,Apeldoorn,16:28,Green
+IC1558,Apeldoorn,16:30,Green
+IC1558,Amersfoort Centraal,16:54,Green
+IC17954,Hengelo,14:38,Green
+IC17954,Hengelo,14:39,Green
+IC17954,Almelo,14:49,Green
+IC17954,Almelo,14:50,Green
+IC17954,Wierden,14:54,Green
+IC17958,Hengelo,15:38,Green
+IC17958,Hengelo,15:39,Green
+IC17958,Almelo,15:49,Green
+IC17958,Almelo,15:50,Green
+IC17958,Wierden,15:54,Green
+SPR7952,Hengelo,14:13,Blue
+SPR7952,Hengelo,14:16,Blue
+SPR7952,Borne,14:21,Blue
+SPR7952,Almelo de Riet,14:26,Blue
+SPR7952,Almelo,14:29,Blue
+SPR7952,Almelo,14:30,Blue
+SPR7952,Wierden,14:34,Blue
+SPR7952,Wierden,14:36,Blue
+SPR7954,Hengelo,14:43,Blue
+SPR7954,Hengelo,14:46,Blue
+SPR7954,Borne,14:51,Blue
+SPR7954,Almelo de Riet,14:56,Blue
+SPR7954,Almelo,14:59,Blue
+SPR7954,Almelo,15:00,Blue
+SPR7954,Wierden,15:04,Blue
+SPR7954,Wierden,15:07,Blue
+SPR7956,Hengelo,15:13,Blue
+SPR7956,Hengelo,15:16,Blue
+SPR7956,Borne,15:21,Blue
+SPR7956,Almelo de Riet,15:26,Blue
+SPR7956,Almelo,15:29,Blue
+SPR7956,Almelo,15:30,Blue
+SPR7956,Wierden,15:34,Blue
+SPR7956,Wierden,15:36,Blue
+SPR7958,Hengelo,15:43,Blue
+SPR7958,Hengelo,15:46,Blue
+SPR7958,Borne,15:51,Blue
+SPR7958,Almelo de Riet,15:56,Blue
+SPR7958,Almelo,15:59,Blue
+SPR7958,Almelo,16:00,Blue
+SPR7958,Wierden,16:04,Blue
+SPR7958,Wierden,16:07,Blue
+GOE1,Bad Bentheim,14:32,Orange
+GOE1,Almelo,15:09,Orange
+GOE1,Deventer,15:37,Orange
+GOE1,Amersfoort Centraal,16:21,Orange
+GOE2,Bad Bentheim,13:58,Orange
+GOE2,Hengelo,14:24,Orange
+GOE2,Hengelo,14:29,Orange
+GOE2,Almelo,14:39,Orange
+GOE2,Deventer,15:07,Orange
+GOE2,Amersfoort Centraal,15:51,Orange
+GOE3,Bad Bentheim,14:58,Orange
+GOE3,Hengelo,15:24,Orange
+GOE3,Hengelo,15:29,Orange
+GOE3,Almelo,15:39,Orange
+GOE3,Deventer,16:07,Orange
+GOE3,Amersfoort Centraal,16:51,Orange
+GOE4,Bad Bentheim,15:32,Orange
+GOE4,Almelo,16:09,Orange
+GOE4,Deventer,16:37,Orange
+GOE4,Amersfoort Centraal,17:21,Orange
