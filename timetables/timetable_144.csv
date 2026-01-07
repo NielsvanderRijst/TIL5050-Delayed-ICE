@@ -1,5 +1,5 @@
 train_id;ICE144;STOP31260;STOP31262;STOP31264;STOP31266;SPR7060;SPR7062;SPR7064;SPR7066;IC 1760;IC1762;IC1764;IC1766;STOP20372;STOP20374;SPR31346;SPR31450;SPR31348;SPR31452;SPR31350;SPR31454;SPR31352;SPR31456;IC3652;IC3654;IC3656;IC3658;IC1562;IC1564;IC1566;IC17962;IC17966;SPR7960;SPR7962;SPR7964;SPR7966;GOE1;GOE2;GOE3;GOE4
-color;Red;Blue;Blue;Blue;Blue;Blue;Blue;Blue;Blue;Green;Green;Green;Green;Blue;Blue;Blue;Blue;Blue;Blue;Blue;Blue;Blue;Blue;Green;Green;Green;Green;Green;Green;Green;Green;Green;Blue;Blue;Blue;Blue;Orange;Orange;Orange;Orange
+color;b50600ff;2100b2ff;2100b2ff;2100b2ff;2100b2ff;3543b2ff;3543b2ff;3543b2ff;3543b2ff;0d6200ff;0d6200ff;0d6200ff;0d6200ff;130066ff;130066ff;2486ffff;899ee4ff;2486ffff;899ee4ff;2486ffff;899ee4ff;2486ffff;899ee4ff;8ef375ff;8ef375ff;8ef375ff;8ef375ff;32b500ff;32b500ff;32b500ff;38972aff;38972aff;228fb2ff;228fb2ff;228fb2ff;228fb2ff;ffa200ff;ffa200ff;ffa200ff;ffa200ff
 Bad Bentheim;15:51;;;;;;;;;;;;;16:08;17:08;;;;;;;;;;;;;;;;;;;;;;16:32;15:58;16:58;17:32
 Oldenzaal;;16:03;16:33;17:03;17:33;;;;;;;;;16:18;17:18;;;;;;;;;;;;;;;;;;;;;;;;;
 Hengelo Oost;;16:09;16:39;17:09;17:39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
